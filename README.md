@@ -1,5 +1,5 @@
 ## Hello! I'm Geronimo Venzi 👋
-### Frontend Developer 
+## Frontend Developer 
 
 #### About Me
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
