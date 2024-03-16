@@ -4,9 +4,6 @@
 #### About Me
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 - I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
-#### About Me
-- I am a self-taught and highly creative individual who seeks to learn and improve every day.
-- I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
 
 ### Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
